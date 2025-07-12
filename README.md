@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Junior Software Developer
 -------------------------
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ByNnd2NXB4eDloYnBzZWw0YzdrdXVuenlsYno2Nnl1aTE4ZmE2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgOgLWvZgTzBZCXmLg/giphy.gif" width="500">
 <br><br>
 
 I’m a recent computer engineering graduate (July 2025) passionate about web development, AI, and data engineering.
